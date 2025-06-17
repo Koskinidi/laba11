@@ -1,4 +1,4 @@
-# Laboratory task 11
+# Lab 11
 It's simple application, which shows simple features of Vue Framework.
 
 Builded with **Tailwind CSS** and **Vue 3 (Composition API)**

@@ -1,0 +1,27 @@
+/* src/styles.css */
+
+body {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
+
+.text1 {
+  color: #0AAB8C;
+}
+
+.text {
+  color: #07456A;
+}
+
+.button {
+  background-color:  #1BC04D;
+}
+
+.button:hover {
+    background-color: #00EB26;
+}
+
+
